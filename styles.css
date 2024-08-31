@@ -5,13 +5,8 @@ body {
     padding: 20px;
 }
 .header{
-  margin: null;
-   align-content: center;
    width: 200px;
     height: auto;
-    border: 2px solid #000;
-    border-radius: 8px;
-    margin: null;
     align-content: center;
 }
 .imge {
@@ -27,7 +22,7 @@ body {
   justify-content: space-between;
   a {
     
-    color: #1a73e8; /* اختر اللون الذي تفضله، مثل الأزرق */
+    color: #1a73e8; 
 }
   
 }
